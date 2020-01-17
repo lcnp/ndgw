@@ -29,9 +29,9 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 <<<
 
-= Portail de collaboration du "Dialogue National sur les Eaux Souterraines"
+= Portail de collaboration du Dialogue National sur les Eaux Souterraines (DNES)
 
-== 1er Dialogue National sur les Eaux Souterraines
+== 1er DNES
 
 Lors du 3ième atelier national de RNCan sur les eaux souterraines tenu à Gatineau, QC en novembre 2014, le programme de géosciences des eaux souterraines (PGES) a promis d’organiser d’ici 3 ans un autre atelier, ceci faisait partie du plan d’action qui se trouve dans GÉOSCAN sous le https://doi.org/10.4095/296668[dossier public 7857].
 
