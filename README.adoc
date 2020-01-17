@@ -52,6 +52,6 @@ Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
 
 === Contenu partagé
 
-* link:meetings\2020-01-15\[Présentations]
+* https://github.com/lcnp/NDGW_Jan-15-2020.pptx[Présentations]
 
 image::images\flags.jpg[]
