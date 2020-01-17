@@ -1,4 +1,4 @@
-= National Dialogue on Groundwater (NDGW) Collaboration Portal
+= National Dialogue on Groundwater (NDGW)
 
 NOTE: Texte en français ici-bas dans la page
 
@@ -27,7 +27,7 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 '''
 
-= Portail de collaboration du Dialogue National sur les Eaux Souterraines (DNES)
+= Dialogue National sur les Eaux Souterraines (DNES)
 
 == 1er DNES
 
