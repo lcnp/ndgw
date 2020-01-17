@@ -1,5 +1,7 @@
 = National Dialogue on Groundwater (NDGW) Collaboration Portal
 
+NOTE: Texte en français ici-bas dans la page
+
 == 1st NDGW
 
 During the 3rd NRCan National Workshop on Groundwater held in Gatineau, QC in November 2014, the Groundwater Geoscience Program (GGP) promised that it would organize another workshop within 3 years, this was part of the Action Plan that can be found in GEOSCAN under https://doi.org/10.4095/296668[Open File 7857]. 
@@ -24,6 +26,8 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 * link:meetings\2020-01-15\[Presentations]
 
 '''
+
+<<<
 
 = Portail de collaboration du "Dialogue National sur les Eaux Souterraines"
 
