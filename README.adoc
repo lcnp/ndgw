@@ -17,9 +17,9 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 * Discussing the logistics (content and format) for future meetings with all partners.
 
-== Presentation file
+== Shared meeting files
 
-* link:meetings\2020-01-15\[test]
+* link:meetings\2020-01-15\[Presentations]
 
 '''
 = RNCan 1er Dialogue National sur les Eaux Souterraines
