@@ -53,3 +53,5 @@ Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
 === Contenu partagé
 
 * link:meetings\2020-01-15\[Présentations]
+
+image::images\flags.jpg[]
