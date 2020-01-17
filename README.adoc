@@ -1,15 +1,17 @@
-= NRCan 1st National Dialogue on Groundwater
+= National Dialogue on Groundwater (NDGW) Collaboration Portal
 
-During the 3rd NRCan National Workshop on Groundwater held in Gatineau, QC in November 2014, the Groundwater Geoscience Program (GGP) promised that it would organize another workshop within 3 years, this was part of the Action Plan that can be found in GEOSCAN under Open File 7857. 
+== 1st NDGW
+
+During the 3rd NRCan National Workshop on Groundwater held in Gatineau, QC in November 2014, the Groundwater Geoscience Program (GGP) promised that it would organize another workshop within 3 years, this was part of the Action Plan that can be found in GEOSCAN under https://doi.org/10.4095/296668[Open File 7857]. 
 
 For different reasons, the 4th NRCan National Workshop on Groundwater never happened. This is why we started the National Dialogue on Groundwater in the hope of continuing the collaboration with all provinces and territories in Canada.
 
-== Logistics
+=== Logistics
 
 Where:: Across Canada via a conference call and a videoconference (WEBEX).
 Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
-== Meeting Objectives
+=== Meeting Objectives
 
 * Reconnecting with groundwater partners from provincial and territorial governments.
 
@@ -17,23 +19,26 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 * Discussing the logistics (content and format) for future meetings with all partners.
 
-== Shared meeting files
+=== Shared meeting content
 
 * link:meetings\2020-01-15\[Presentations]
 
 '''
-= RNCan 1er Dialogue National sur les Eaux Souterraines
 
-Lors du 3ième atelier national de RNCan sur les eaux souterraines tenu à Gatineau, QC en novembre 2014, le programme de géosciences des eaux souterraines (PGES) a promis d’organiser d’ici 3 ans un autre atelier, ceci faisait partie du plan d’action qui se trouve dans GÉOSCAN sous le dossier public 7857.
+= Portail de collaboration du "Dialogue National sur les Eaux Souterraines"
+
+== 1er Dialogue National sur les Eaux Souterraines
+
+Lors du 3ième atelier national de RNCan sur les eaux souterraines tenu à Gatineau, QC en novembre 2014, le programme de géosciences des eaux souterraines (PGES) a promis d’organiser d’ici 3 ans un autre atelier, ceci faisait partie du plan d’action qui se trouve dans GÉOSCAN sous le https://doi.org/10.4095/296668[dossier public 7857].
 
 Pour toutes sortes de raisons, le 4ième atelier national de RNCan sur les eaux souterraines n’a jamais été organisé. C’est pourquoi nous avons débuté le dialogue national sur les eaux souterraines dans l’espoir de continuer la collaboration avec toutes les provinces et les territoires du Canada.
 
-== Logistiques
+=== Logistiques
 
 Endroit :: À travers le Canada par l’entremise de support de téléconférence et de vidéoconférence (WEBEX)
 Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
 
-== Objectifs de la rencontre
+=== Objectifs de la rencontre
 
 * Ré-établir les liens avec les partenaires travaillant sur les eaux souterraines des gouvernements des provinces et des territoires.
 
@@ -41,3 +46,6 @@ Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
 
 * Discuter de la logistique (contenu et format) des prochaines rencontres avec les partenaires.
 
+=== Contenu partagé
+
+* link:meetings\2020-01-15\[Présentations]
