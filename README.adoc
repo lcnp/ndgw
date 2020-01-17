@@ -23,11 +23,9 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 === Shared meeting content
 
-* link:meetings\2020-01-15\[Presentations]
+* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Presentations]
 
 '''
-
-<<<
 
 = Portail de collaboration du Dialogue National sur les Eaux Souterraines (DNES)
 
