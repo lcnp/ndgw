@@ -21,9 +21,9 @@ Date:: Wednesday January 15, 2020 (1-2pm (ET))
 
 * Discussing the logistics (content and format) for future meetings with all partners.
 
-=== Shared meeting content
+=== Shared content
 
-* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Presentations]
+* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Meeting presentations]
 
 '''
 
@@ -50,6 +50,6 @@ Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
 
 === Contenu partagé
 
-* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Présentations]
+* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Présentations des participants]
 
 image::images\flags.jpg[]
