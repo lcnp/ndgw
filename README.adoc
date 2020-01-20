@@ -1,55 +1,10 @@
-= National Dialogue on Groundwater (NDGW)
+== National Dialogue on Groundwater (NDGW)
 
-NOTE: Texte en français ici-bas dans la page
+NOTE: For more information please refer to the link:/lcnp/ndgw/wiki[NDGW wiki page]
 
-== 1st NDGW
 
-During the 3rd NRCan National Workshop on Groundwater held in Gatineau, QC in November 2014, the Groundwater Geoscience Program (GGP) promised that it would organize another workshop within 3 years, this was part of the Action Plan that can be found in GEOSCAN under https://doi.org/10.4095/296668[Open File 7857]. 
+== Dialogue National sur les Eaux Souterraines (DNES)
 
-For different reasons, the 4th NRCan National Workshop on Groundwater never happened. This is why we started the National Dialogue on Groundwater in the hope of continuing the collaboration with all provinces and territories in Canada.
-
-=== Logistics
-
-Where:: Across Canada via a conference call and a videoconference (WEBEX).
-Date:: Wednesday January 15, 2020 (1-2pm (ET))
-
-=== Meeting Objectives
-
-* Reconnecting with groundwater partners from provincial and territorial governments.
-
-* Establishing a list of key contacts from each organization to enhance collaboration.
-
-* Discussing the logistics (content and format) for future meetings with all partners.
-
-=== Shared content
-
-* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Meeting presentations]
-
-'''
-
-= Dialogue National sur les Eaux Souterraines (DNES)
-
-== 1er DNES
-
-Lors du 3ième atelier national de RNCan sur les eaux souterraines tenu à Gatineau, QC en novembre 2014, le programme de géosciences des eaux souterraines (PGES) a promis d’organiser d’ici 3 ans un autre atelier, ceci faisait partie du plan d’action qui se trouve dans GÉOSCAN sous le https://doi.org/10.4095/296668[dossier public 7857].
-
-Pour toutes sortes de raisons, le 4ième atelier national de RNCan sur les eaux souterraines n’a jamais été organisé. C’est pourquoi nous avons débuté le dialogue national sur les eaux souterraines dans l’espoir de continuer la collaboration avec toutes les provinces et les territoires du Canada.
-
-=== Logistiques
-
-Endroit :: À travers le Canada par l’entremise de support de téléconférence et de vidéoconférence (WEBEX)
-Date :: Mercredi 15 janvier 2020, (1-2pm (ET))
-
-=== Objectifs de la rencontre
-
-* Ré-établir les liens avec les partenaires travaillant sur les eaux souterraines des gouvernements des provinces et des territoires.
-
-* Établir une liste des contacts-clé de chacune des organisations afin de relancer la collaboration.
-
-* Discuter de la logistique (contenu et format) des prochaines rencontres avec les partenaires.
-
-=== Contenu partagé
-
-* https://github.com/lcnp/ndgw/raw/master/meetings/2020-01-15/NDGW_Jan-15-2020.pptx[Présentations des participants]
+NOTE: Pour plus d'information veuillez consulter le link:/lcnp/ndgw/wiki[wiki du DNES]. 
 
 image::images\flags.jpg[]
