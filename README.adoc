@@ -1,10 +1,11 @@
 == National Dialogue on Groundwater (NDGW)
 
-NOTE: For more information please refer to the link:/lcnp/ndgw/wiki[NDGW wiki page]
+NOTE: For more information please refer to the link:https://github.com/lcnp/ndgw/wiki[NDGW wiki page]
 
+'''
 
 == Dialogue National sur les Eaux Souterraines (DNES)
 
-NOTE: Pour plus d'information veuillez consulter le link:/lcnp/ndgw/wiki[wiki du DNES]. 
+NOTE: Pour plus d'information veuillez consulter le link:https://github.com/lcnp/ndgw/wiki[wiki du DNES]. 
 
 image::images\flags.jpg[]
