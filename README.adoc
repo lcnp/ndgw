@@ -8,4 +8,4 @@ NOTE: For more information please refer to the link:https://github.com/lcnp/ndgw
 
 NOTE: Pour plus d'information veuillez consulter le link:https://github.com/lcnp/ndgw/wiki[wiki du DNES]. 
 
-image::images\flags.jpg[]
+image::images\montageDrapeauxCanadiens_greyscale.png[]
